@@ -1,5 +1,5 @@
 <template>
-  <img src="~/assets/avatar.png" alt="Your Logo" :class="$style.logo" />
+  <img src="~/assets/avatar.png" alt="Ryan Rapini" :class="$style.logo" />
 </template>
 
 <style lang="scss" module>

@@ -15,13 +15,15 @@ export default {}
           src="~/assets/avatar.png"
           alt="Your Logo"
         />
-        YOUR BRAND HERE
+        Ryan Rapini
       </nuxt-link>
     </div>
     <div class="navbar-item-wrapper">
       <nuxt-link to="/" class="navbar-item">Home</nuxt-link>
       <nuxt-link to="/blog" class="navbar-item">Blog</nuxt-link>
-      <nuxt-link to="/uses" class="navbar-item">Uses</nuxt-link>
+      <nuxt-link to="/portfolio" class="navbar-item">Portfolio</nuxt-link>
+      <nuxt-link to="/resume" class="navbar-item">Resume</nuxt-link>
+      <nuxt-link to="/contact" class="navbar-item">Contact</nuxt-link>
     </div>
   </nav>
 </template>

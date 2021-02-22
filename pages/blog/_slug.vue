@@ -33,6 +33,7 @@ export default {
 
 <style lang="scss">
 @import '../../styles/_settings.scss';
+@import '../../styles/main.scss';
 
 .blog-publish-date {
   @apply mt-12;
@@ -51,40 +52,5 @@ export default {
   @apply mx-auto;
   @apply px-8;
   max-width: 740px;
-}
-
-.nuxt-content {
-  h2 {
-    color: $c-navy;
-    font-family: $ff-sans;
-    @apply font-bold;
-    @apply mt-5 mb-5;
-    @apply pb-3;
-    border-bottom: 1px solid $c-border;
-    @apply text-4xl;
-    line-height: 1.3;
-  }
-
-  p,
-  li {
-    line-height: 1.7;
-    font-size: 16px;
-    font-family: $ff-serif;
-
-    @include breakpoint(600px) {
-      font-size: 18px;
-    }
-  }
-
-  p {
-    @apply mb-4;
-  }
-
-  ul,
-  ol {
-    @apply list-decimal;
-    @apply list-inside;
-    @apply mb-4;
-  }
 }
 </style>

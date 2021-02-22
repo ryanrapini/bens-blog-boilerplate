@@ -18,8 +18,8 @@ export default {
   <footer class="footer">
     <SocialMediaBar />
     <p class="text-center">
-      © YOUR BRAND HERE {{ currentYear }}. Made with
-      <a href="https://www.nuxtjs.org">NuxtJS</a> 💚.
+      © Ryan Rapini {{ currentYear }}. Made with
+      <a href="https://www.nuxtjs.org">NuxtJS</a>.
     </p>
   </footer>
 </template>

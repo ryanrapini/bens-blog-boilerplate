@@ -13,10 +13,11 @@ export default {
     <div>
       <logo class="mt-20" />
       <h1 class="title">
-        Your Brand
+        Ryan Rapini
       </h1>
-      <p class="subtitle">Not your average blog boilerplate!</p>
-      <nuxt-link to="/learn" class="button">Call to Action!</nuxt-link>
+      <p class="subtitle">
+        Software Developer, Volleyball Player, Traveller, Nerd, Cat Lover.
+      </p>
     </div>
   </div>
 </template>

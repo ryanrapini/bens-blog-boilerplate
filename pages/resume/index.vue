@@ -1,7 +1,7 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const page = await $content('uses').fetch()
+    const page = await $content('resume').fetch()
 
     return {
       page

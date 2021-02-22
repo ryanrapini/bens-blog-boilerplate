@@ -10,19 +10,19 @@ export default {
       accounts: [
         {
           name: 'Twitter',
-          url: 'https://www.twitter.com/'
+          url: 'https://twitter.com/RyanRapini'
         },
         {
           name: 'GitHub',
-          url: 'https://www.github.com/'
+          url: 'https://github.com/ryanrapini'
         },
         {
           name: 'YouTube',
-          url: 'https://www.youtube.com/'
+          url: 'https://www.youtube.com/channel/UCzX9_6wlp0P9HYu4EBYGqdg'
         },
         {
-          name: 'Twitch',
-          url: 'https://www.twitch.tv/'
+          name: 'Instagram',
+          url: 'https://www.instagram.com/ryanrapini/'
         }
       ]
     }
