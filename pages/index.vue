@@ -25,18 +25,6 @@ export default {
 <style lang="scss" scoped>
 @import '../styles/_settings.scss';
 
-.button {
-  display: inline-block;
-  @apply mt-3;
-  font-size: 1.2rem;
-  font-family: $ff-serif;
-  color: #fff;
-  background-color: $c-primary;
-  padding: 0.8rem 1.6rem;
-  border-radius: 4px;
-  transition: background-color 0.1s ease;
-}
-
 .title {
   @apply block;
   @apply mt-3;

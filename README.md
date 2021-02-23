@@ -26,6 +26,13 @@ $ yarn start
 
 # generate static project
 $ yarn generate
+
+# deploy to gh-pages branch
+$ yarn deploy
+
+# after deploy, ssh to live and pull
 ```
+
+
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
