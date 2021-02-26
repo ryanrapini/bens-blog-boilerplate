@@ -1,6 +1,9 @@
 export default {
   target: 'static',
   mode: 'universal',
+  googleAnalytics: {
+    id: 'UA-36315440-1'
+  },
   /*
    ** Headers of the page
    */
@@ -43,7 +46,8 @@ export default {
     '@nuxtjs/eslint-module',
     // Doc: https://github.com/nuxt-community/stylelint-module
     '@nuxtjs/stylelint-module',
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-analytics'
   ],
   /*
    ** Nuxt.js modules

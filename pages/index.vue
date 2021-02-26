@@ -16,7 +16,7 @@ export default {
         Ryan Rapini
       </h1>
       <p class="subtitle">
-        Software Developer, Volleyball Player, Traveller, Nerd, Cat Lover.
+        Software Developer, Volleyball Player, Traveler, Nerd, Cat Lover.
       </p>
     </div>
   </div>
