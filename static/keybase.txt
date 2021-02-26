@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/ryanrapini
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ryanrapini.com
+  * I am ryanrapini (https://keybase.io/ryanrapini) on keybase.
+  * I have a public key with fingerprint 751C 07DE A634 A479 0918  285E 6460 0DE7 6F9E 2356
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120879ef833c5a73d1e6a2f6216d9b9be3ad6c82d61d78cf1d3457cd7cee290bae40a",
+      "fingerprint": "751c07dea634a4790918285e64600de76f9e2356",
+      "host": "keybase.io",
+      "key_id": "64600de76f9e2356",
+      "kid": "010132cae5a5105721c859ba74fce16fe110cdc4e4706815786e2ad177480af124850a",
+      "uid": "2c0eecda0cd526b1eedbdb5ed1286200",
+      "username": "ryanrapini"
+    },
+    "service": {
+      "hostname": "ryanrapini.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1538034391,
+  "expire_in": 157680000,
+  "prev": "6af5170411b4aebcbc5f331d739b086fb32c875cc392ac583ba04db98cb7539b",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJ9TFVlHOYr83IxsAIU/FiHhTchdt7zfQDHV+iYMaWppEWX8/EeOCHn
+nPsBcQNr6dVr1ASzTQKGRLsCGwYhCJW0gWBGgaEMEtQ+XLHBlkADBjntHJZ/1fvP
+u/f3Ps/zPr/n/fWv8/cJ9BVz102pdVEHfL/vrS3yea2lfLwU4VXRhcSXIgVwdYOH
+RehwWgtkEYlHUIChDM1CicFxgeRoXASQ4jCJwgAlsjzLQ5wTKYHBRAqINCNIQMQJ
+khZEWoAQY1GegwTKIbGIJCt50K7ZZcWpy9IkEFBahByFExxBsygLGIwhIUVQKCpC
+mpJYiOEkpRPzVYfB0M3xnAPGyape0w/WVXv/g3/sGwU4JnCQ5EiAkjQGBIZkeY4m
+JAECSoIAoIIoEJCgUYoBJM1QEONEQNMEg3ISwAiGXPVdtCqHCSiEgsjpHBKjeACh
+yIs8CUWAMRSGogbQAe0KVwh1tN3FKXZOkxUZORKL6PViWYBGtEYv/8HECWqhztfs
+qlMV1MP6Xb7TqTniDa7TpRngtyBv/VfGysuKqGepM4qh3SGrChIPdKTglA1dQOIM
+ihM4C2IRWKLJdmiVDQRJUwyqL+MdWGwkx0kkoFECAJ7gIC/wAinhuP6HOMujDCXx
+enoMTQoCzmKcQDI4z6GEyLOMwNOkjkGMxmyKqmsTuk8uT9d0yHkK5yyyQ+RIX+/r
+AT6+gT5rnvAzhswn0BTyePTM+cGP8l7uIe509R5e3xBzv63+Wn646w8xY19TSGbZ
+34Vaunns0ekrH5vlUnOo60xuR0hN9J6g6J2fzZkuD2zwvvl+XHl2dyy0TBW+PWE6
+OzaWnTrDhR+tzOqdrP72eurvKyOdo1228YUW+mEkwIcX57+5KpZoYwf/DD6vtX9d
+sv/Q8JrjZbkbA5TZvZEHXkpL237zx56PvnzlwueDJ9u85U2hHQmmaXPOq57l9Ol2
+oNkuV6XvH5NHhcGGjPm51OqZyYtVRXOd7rq+ZRsVs7kGTKeXJuzyLISpl8BzN5nT
+rVlhYadudWUOJvy1o7/n4JZN/XObgn56Wpu/dKJxufnFd8vIjJRj+wo+NE2fXXqP
+HGo7P/LMjpyqiKgbQ3Ve5WRFdnvrgH337O2jgW+07r1Irm2wf/KCf+c7W5Vky1Ti
+0J5FqXx7UlrntuEftpgTA4Kf/8KjeZKetcTf9QsHI867ySq51LLT3c5O/Bow73ng
+uX7PnejtPp51D9zederc5MPK3xbqkboNFTfK5Bg81WHS6gMbZpqQacQtYVdv5ZTs
+jh4t2Fbpjr3wgTTgPbE+f+XKmY6IrKjoQ361jbZIS+qxjcPn8gIIm+tB6ZBrbbN3
+KKiZX7GOW9obhzeH+D91reY7CvTVpvzSFeEbv7R4Z8JdvTUlsatbIjLN3k/jQi1x
+Pyc9+VXy7H2m4h+ThL8n
+=xW+e
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ryanrapini
+
+==================================================================
