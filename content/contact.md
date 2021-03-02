@@ -1,3 +1,3 @@
 # Contact
 
-You can contact me through email at ryan@ryanrapini.com
+You can contact me through email by <v-email email="ryan@ryanrapini.com"></v-email>

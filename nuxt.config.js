@@ -1,4 +1,5 @@
 export default {
+  components: true,
   target: 'static',
   mode: 'universal',
   googleAnalytics: {
