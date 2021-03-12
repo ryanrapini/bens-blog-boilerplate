@@ -52,7 +52,40 @@
 
   p {
     font-family: PT Serif;
+    margin-bottom: 20px;
     @apply text-lg;
+  }
+
+  p, pre {
+    margin-bottom: 20px;
+  }
+
+  code {
+    color: #FFF;
+    border-radius: 2px;
+    padding: 2px;
+    border: solid 1px #444;
+    background: rgb(107,38,197);
+    background: linear-gradient(180deg, rgba(107,38,197,1) 0%, rgba(48,17,88,1) 100%);
+  }
+
+  pre {
+    color: #DDD;
+    border-radius: 5px;
+    border: solid 1px #444;
+    background: rgb(107,38,197);
+    background: linear-gradient(180deg, rgba(107,38,197,1) 0%, rgba(48,17,88,1) 100%);
+    padding: 5px;
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+  }
+
+  pre strong {
+    color: #FFF;
+    font-weight: 700;
   }
 
   .button {
