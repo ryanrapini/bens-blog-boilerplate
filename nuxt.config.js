@@ -2,9 +2,6 @@ export default {
   components: true,
   target: 'static',
   mode: 'universal',
-  googleAnalytics: {
-    id: 'UA-36315440-1'
-  },
   /*
    ** Headers of the page
    */
@@ -38,7 +35,9 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [],
+  plugins: [
+    {src: '~/plugins/vue-gtag',}
+  ],
   /*
    ** Nuxt.js dev-modules
    */
@@ -48,7 +47,6 @@ export default {
     // Doc: https://github.com/nuxt-community/stylelint-module
     '@nuxtjs/stylelint-module',
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-analytics'
   ],
   /*
    ** Nuxt.js modules
