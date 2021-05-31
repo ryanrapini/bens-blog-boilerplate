@@ -1,6 +1,6 @@
 ---
 title: Sublime Text - ESLint on save for Vue.js files
-date: Mon May 31 2021 13:55:00 GMT-0500 (Eastern Standard Time)
+date: Mon May 30 2021 13:55:00 GMT-0500 (Eastern Standard Time)
 excerpt: How to enable eslint on save for vue.js files in sublime text.
 ---
 
@@ -14,34 +14,40 @@ I played with a few different methods for running ESLint on save, some more comp
 
 1. Install [Package Manager](https://packagecontrol.io/installation) if you haven't already installed it into Sublime Text.
 2. Install [ESLint-Formatter](https://github.com/TheSavior/ESLint-Formatter) through package control
-```
+
+<pre>
 ctrl + shift + P
 Package Control - Install Package
 ESLint-Formatter
-```
-3. Open the config file for ESLint-Formatter.
-```
-Preferences > Package Settings > ESLint-Formatter > Settings
+</pre>
 
-```
+3. Open the config file for ESLint-Formatter.
+
+<pre>
+Preferences > Package Settings > ESLint-Formatter > Settings
+</pre>
+
 4. Add the following config:
-```
+
+<pre>
 {
 	"format_on_save": true,
 	"format_on_save_extensions": [
 		"vue"
 	],
 }
-
-```
+</pre>
 
 For me, I also had to override the default node.js path to point to the correct one on my Linux machine. To do this, I first had to find where my executable was installed. I opened terminal, and typed `which node` to get this path.
 
-```
+
+<pre>
+{
+	...,
 	"node_path": {
 		"linux": "/usr/bin/node"
 	}
-
-```
+}
+</pre>
 
 After this, my Sublime Text would nicely format all my Vue.js files upon saving them!
